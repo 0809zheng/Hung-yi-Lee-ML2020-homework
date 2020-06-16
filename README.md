@@ -13,3 +13,10 @@
 - Saliency Map
 - Activation Maximization
 - Local Interpretable Model-Agnostic Explanation（LIME）
+
+
+**HW7：Network Compression**
+- Network Pruning
+- Knowledge Distillation
+- Parameter Quantization
+- Architecture Design
